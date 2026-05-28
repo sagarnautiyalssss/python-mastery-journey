@@ -13,4 +13,7 @@ print(hacker["OS"][0]) # print with index
 
 mySet = {12, 11, 10, 2 , 12, 2, 10, 5, 5}
 
-print(mySet) # set automatic remove all duplicate values 
+print(mySet) # set automatic remove all duplicate values
+
+my_Set = set() # Create Empty set using set() mathod 
+print(type(my_Set))
